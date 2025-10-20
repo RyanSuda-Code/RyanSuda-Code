@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Ryan.
 
-Aspiring web developer with a background in Criminology, combining analytical thinking and problem-solving skills with hands-on experience in modern web technologies. Passionate about continuous learning and building intuitive, impactful web applications.
+Aspiring web developer with a background in Criminology. Passionate about continuous learning and building intuitive, impactful web applications, while combining analytical thinking and problem-solving skills with hands-on experience in modern web technologies.
+
+🌱 I’m currently learning <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>.
+
 <!--
 **RyanSuda-Code/RyanSuda-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
