@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Ryan.
 
+Aspiring web developer with a background in Criminology, combining analytical thinking and problem-solving skills with hands-on experience in modern web technologies. Passionate about continuous learning and building intuitive, impactful web applications.
 <!--
 **RyanSuda-Code/RyanSuda-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
