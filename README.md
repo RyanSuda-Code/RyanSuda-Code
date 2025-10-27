@@ -7,18 +7,16 @@
 ---
 
 ### 🚀 About Me
-- 💡 I learn best by doing — every small project helps me grow as a developer.  
+- 💻 Aspiring Web Developer currently exploring HTML, CSS, and responsive design through real-world projects.
 - 🧠 Focused on becoming a **Full-Stack Developer** in the near future.  
 - 🕒 Making consistent progress every day, no matter how small.  
 
 ---
 
-### 🛠️ Tech Stack
-
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-*(![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))* 
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
