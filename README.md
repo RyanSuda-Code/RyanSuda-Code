@@ -35,7 +35,7 @@
 
 ### 📫 Connect with Me
 - GitHub: [@RyanSuda-Code](https://github.com/RyanSuda-Code)  
-*(You can add more links later like LinkedIn or a portfolio site.)*
+
 
 ---
 
