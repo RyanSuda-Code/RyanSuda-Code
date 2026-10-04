@@ -27,7 +27,7 @@
 ---
 
 ###  My Goals
--  Learn React 
+-  Learn Backend
 -  Build real-world projects and improve my portfolio  
 -  Collaborate with other developers 
 -  Continue learning and stay consistent  
